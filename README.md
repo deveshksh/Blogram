@@ -2,8 +2,8 @@
 "Get hooked on my blogs app - where every post packs a punch!"
 
 # Features: 
-login and signup
-CRUD Operations
+1. login and signup
+2. CRUD Operations
 
 
 # How to Run Blogram
